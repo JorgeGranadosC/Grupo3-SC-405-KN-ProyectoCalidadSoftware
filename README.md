@@ -27,7 +27,9 @@ Continuando con este mismo paso, una vez se descargue el .exe se debe correr el 
     `php composer.phar require php-webdriver/webdriver`
     
 Una forma de abrir esta ruta en cmd mas rápidamente es escribiendo "cmd ." y luego presionar enter en la barra que muestra nuestra ruta actual en el File Explorer, por ejemplo:
+
   ![image](https://user-images.githubusercontent.com/45716413/172533840-d622f72a-24f4-43e5-9c3f-2612aa65cb99.png)
+
 Una vez tenemos nuestra ventana abierta, podemos proceder a digitar el comando previamente mencionado para correr el archivo composer.phar, descargando así los archivos necesarios para usar el php-webdriver.
 
 ![image](https://user-images.githubusercontent.com/45716413/172534018-b98c34a8-8056-42b3-bbd3-d68e14c11406.png)
