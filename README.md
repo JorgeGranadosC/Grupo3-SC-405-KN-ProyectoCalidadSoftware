@@ -5,9 +5,9 @@ Los pasos necesarios para poder correr nuestras pruebas automatizadas constan de
 El lenguaje utilizado para estas pruebas sera PHP ya que el sitio que deseamos analizar esta escrito en este mismo lenguaje.
 
 	
-  `GitHub oficial de php-webdriver: https://github.com/php-webdriver/php-webdrive` 
+  `GitHub oficial de php-webdriver:`  https://github.com/php-webdriver/php-webdrive
   
-  `OrangeHRM opensource-demo: https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials`
+  `OrangeHRM opensource-demo:` https://opensource-demo.orangehrmlive.com/index.php/auth/validateCredentials
 
 ## Prerequisito: 
 Tener un servidor local para correr archivos PHP, por ejemplo XAMPP o WAMPP.
@@ -18,7 +18,7 @@ Tomando en cuenta que ya se tiene nuestro servidor de XAMPP funcionando, tenemos
 ## Instalaciones y configuraciones necesarias: 
 
 Composer: 
-1. Primero es necesario instalar Composer en nuestra máquina, este software lo podemos descarfar desde su página oficial en la sección de descargas. Encuentre el link  a continuación: https://getcomposer.org/download/
+1. Primero es necesario instalar Composer en nuestra máquina, este software lo podemos descarfar desde su página oficial en la sección de descargas. Encuentre el link  a continuación:  https://getcomposer.org/download/
 ![image](https://user-images.githubusercontent.com/45716413/172532471-eaddeacf-94a8-459b-b543-3a51176ee65f.png)
 Continuando con este mismo paso, una vez se descargue el .exe se debe correr el setup de Composer dentro de la localización que prefiera, lo recomendable es que sea en una de las primeras carpetas que se encuentran en la unidad de almacenamiento, por ejemplo: E:\ComposerSetup
   
