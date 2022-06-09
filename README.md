@@ -70,6 +70,7 @@ La respuesta correcta por parte de la consola de cmd debe ser similar a esta:
 
 
 Correr los scripts:
+
 6. Ahora ya podemos abrir archivos de php que corran instrucciones, por ejemplo en el repositorio de GitHub del driver hay un archivo que se llama "example.php", si lo descargamos o creamos uno con ese codigo dentro del folder de htdocs se puede ver como empieza una sesión siguiendo nuestras ordenas para automatizar las pruebas, podemos monitorear si esta corriendo o no en https:/localhost:4444/ cuando el servidor de Selenium esta corriendo. 
 Tener en cuenta que ocupamos copiar la carpeta "vendor" que se genero cuando se instalo el phpwebdriver con Composer en la misma ruta de htdocs donde tenemos nuestro script para que se encuentren los archivos necesarios. Por ejemplo:
 
